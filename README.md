@@ -8,10 +8,10 @@ I enjoy building projects that combine **hardware + software** to create solutio
 ## 🚀 Skills & Technologies
 
 **Programming Languages:**  
-- C
+- C  
 - Python  
 - Embedded C (ESP32, Arduino)  
-- MATLAB (basic modeling & simulation)
+- MATLAB (basic modeling & simulation)  
 
 **Embedded & IoT:**  
 - ESP32 / ESP-IDF / Arduino  
@@ -19,55 +19,56 @@ I enjoy building projects that combine **hardware + software** to create solutio
 - MQTT & AWS IoT Core   
 
 **Electronics & Hardware:**  
-- Guitar Pedals
-- PCB Design (KiCad) 
+- Guitar Pedals  
+- PCB Design (KiCad)  
 
 **Other Tools:**  
 - Git & GitHub  
 - VS Code  
 - MATLAB & Simulink  
-- LTspice
-- Xilinx Vivado
-- Fusion360
-- Proteus 8
-- Cakewalk
+- LTspice  
+- Xilinx Vivado  
+- Fusion 360  
+- Proteus 8  
+- Cakewalk  
 
 ---
 
 ## 🌱 Currently Learning
-- BLE mesh networking
-- Image Processing & AI for robotics (YOLO basics)
-- How not to crashout
+- BLE mesh networking  
+- Image Processing & AI for robotics (YOLO basics)  
+- How not to crash out 🚀  
 
 ---
 
 ## 🎯 Interests
 - IoT-based automation systems  
 - Robotics for assistive tech  
-- VLSI circuit design
-- Analog and digital electronics
-- PLC programming 
-- AI + Embedded hardware integration
+- VLSI circuit design  
+- Analog and digital electronics  
+- PLC programming  
+- AI + Embedded hardware integration  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nigelcsaldanha&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nigelcsaldanha&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nigelcsaldanha&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nigelcsaldanha&theme=tokyonight" alt="GitHub Streak" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigelcsaldanha&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nigelcsaldanha&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
 ---
 
 ## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/nigelcsaldanha)  
-- [Instagram](https://www.instagram.com/nigelcsaldanha)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nigelcsaldanha)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nigelcsaldanha)  
 
 ---
 
 ⭐️ *"Figure shit out”*  
+
