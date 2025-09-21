@@ -66,20 +66,24 @@ I enjoy building projects that combine **hardware + software** to create solutio
 
 ## 📫 Connect With Me  
 
-<div style="text-align: center;">
-  <!-- Your username -->
-  <p style="margin: 0; font-weight: bold;">@nigelcsaldanha</p>
-  
-  <!-- Icons stacked vertically -->
-  <div style="display: inline-flex; flex-direction: column; align-items: center; gap: 10px; margin-top: 5px;">
+<div style="display: flex; flex-direction: column; align-items: flex-start; gap: 10px;">
+  <!-- LinkedIn -->
+  <div style="display: flex; align-items: center; gap: 8px;">
     <a href="https://www.linkedin.com/in/nigelcsaldanha">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
     </a>
+    <span>@nigelcsaldanha</span>
+  </div>
+
+  <!-- Instagram -->
+  <div style="display: flex; align-items: center; gap: 8px;">
     <a href="https://www.instagram.com/nigelcsaldanha">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="30" height="30"/>
     </a>
+    <span>@nigelcsaldanha</span>
   </div>
 </div>
+
 
 
 ---
