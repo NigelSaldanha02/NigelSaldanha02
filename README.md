@@ -78,11 +78,12 @@ I enjoy building projects that combine **hardware + software** to create solutio
   <!-- Instagram -->
   <div style="display: flex; align-items: center; gap: 8px;">
     <a href="https://www.instagram.com/nigelcsaldanha">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="30" height="30"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="30" height="30"/>
     </a>
     <span>@nigelcsaldanha</span>
   </div>
 </div>
+
 
 
 
