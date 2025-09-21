@@ -10,7 +10,7 @@ I enjoy building projects that combine **hardware + software** to create solutio
 **Programming Languages:**  
 - C
 - Python  
-- Embedded C (ESP32, Arduino, STM32)  
+- Embedded C (ESP32, Arduino)  
 - MATLAB (basic modeling & simulation)
 
 **Embedded & IoT:**  
@@ -68,7 +68,6 @@ I enjoy building projects that combine **hardware + software** to create solutio
 - [LinkedIn](https://www.linkedin.com/in/nigelcsaldanha)  
 - [Instagram](https://www.instagram.com/nigelcsaldanha)  
 
----
 ---
 
 ⭐️ *"Figure shit out”*  
