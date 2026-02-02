@@ -23,11 +23,9 @@ I enjoy building projects that combine **hardware + software** to create solutio
 - PCB Design (KiCad)  
 
 **Other Tools:**  
-- Git & GitHub  
 - VS Code  
 - MATLAB & Simulink  
 - LTspice  
-- Xilinx Vivado  
 - Fusion 360  
 - Proteus 8  
 - Cakewalk  
@@ -36,7 +34,8 @@ I enjoy building projects that combine **hardware + software** to create solutio
 
 ## 🌱 Currently Learning
 - BLE mesh networking  
-- Image Processing & AI for robotics (YOLO basics)  
+- Image Processing & AI for robotics (YOLO basics)
+- Kinematics for robotics  
 - How not to crash out 🚀  
 
 ---
