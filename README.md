@@ -88,5 +88,5 @@ I enjoy building projects that combine **hardware + software** to create solutio
 
 ---
 
-⭐️ *"Figure shit out”*  
+⭐️ *"Figure things out”*  
 
